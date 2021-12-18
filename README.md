@@ -6,7 +6,8 @@
 - [ ] 语义分割
 
 ## 展示示例
-
+![show_usalpr](https://github.com/qzq2514/Project_show/blob/master/test_data/show_pics_in_readme/show_usalpr.gif)
+![show_trafficReID](https://github.com/qzq2514/Project_show/blob/master/test_data/show_pics_in_readme/show_trafficReID.gif)  
 详细教程见本仓库下的《项目说明.docx》
 
 
