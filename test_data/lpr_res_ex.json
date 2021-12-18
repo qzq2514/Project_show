@@ -1,0 +1,20 @@
+{
+    "multi2.png": [
+        {
+            "主要属性_strmain": "xxxxx",
+            "其他属性1_str": "xxxxx",
+            "其他属性2_str": "xxxxx",
+            ...
+            "主要框_bbmain": "xmin ymin xmax ymax",
+            "其他_bblist": [
+                "xmin ymin xmax ymax",
+                "xmin ymin xmax ymax",
+                ...
+            ]
+        },
+        {
+            第二个目标结果
+        }
+        ...
+    ]
+}
